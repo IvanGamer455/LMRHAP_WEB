@@ -6,6 +6,7 @@ This webpage project of mine is open-source to all
 
 	Changelog 9-10-2024:
  	-Added announcements on the home page
+  	-Added SCHEDULES page
 
 
 	Changelog 5-10-2024:
